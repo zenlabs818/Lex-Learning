@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lex Learn",
+  "description": "A premium AI-powered online learning mobile application featuring personalized tutors, smart course summaries, and interactive quizzes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
